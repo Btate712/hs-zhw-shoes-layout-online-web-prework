@@ -30,6 +30,11 @@
   background: #fff;
 }
 
+.col-12 {
+  float: left;
+  width: 64%;
+  background: #fff;
+}
 .col-2 {
   float: left;
   width: 32%;
